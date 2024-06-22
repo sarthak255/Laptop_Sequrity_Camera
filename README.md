@@ -1,2 +1,2 @@
-# Laptop_Sequrity_Camera
+# Laptop_Security_Camera
 for fun 
